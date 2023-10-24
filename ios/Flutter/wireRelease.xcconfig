@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_wire.dart
+ASSET_PREFIX=wire
+BUNDLE_NAME=Wire
+BUNDLE_DISPLAY_NAME=Wire
